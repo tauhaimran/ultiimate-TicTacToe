@@ -24,6 +24,9 @@ Want a quick look before running the game?
 
 ▶️ [**WatchMe.mp4**](./WatchMe.mp4) – short screen recording of the AI playing against a human.
 
+![Gameplay Preview](./preview.gif)
+short screen recording of the AI playing against a human.
+
 ---
 
 ## 🖥️ Download and Play (No Python Needed)
@@ -46,6 +49,8 @@ A precompiled executable (`.exe`) is available for Windows users. No need to ins
 UltimateTicTacToe/
 │
 ├── Q3_latest.py         # Main game logic (Pyxel + AI)
+├── preview.gif            # Demo gameplay recording
 ├── WatchMe.mp4          # Demo gameplay recording
 ├── UltimateTicTacToe.exe # Standalone executable (Windows)
 ├── README.md            # This file
+
