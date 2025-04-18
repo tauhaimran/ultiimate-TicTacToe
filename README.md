@@ -25,7 +25,7 @@ Want a quick look before running the game?
 ▶️ [**WatchMe.mp4**](./WatchMe.mp4) – short screen recording of the AI playing against a human.
 
 ![Gameplay Preview](./preview.gif)
-short screen recording of the AI playing against a human.
+
 
 ---
 
