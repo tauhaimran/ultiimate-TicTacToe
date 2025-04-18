@@ -31,7 +31,7 @@ Want a quick look before running the game?
 A precompiled executable (`.exe`) is available for Windows users. No need to install Python!
 
 ### 🔽 Download:
-[Download UltimateTicTacToe.exe](https://github.com/yourusername/yourrepo/releases/latest)
+[Download UltimateTicTacToe.exe](https://github.com/tauhaimran/ultiimate-TicTacToe/releases/download/v1.0.0-beta.1.0/ult_tictactoe.exe)
 
 ### ▶️ Run the Game:
 1. Double-click `UltimateTicTacToe.exe`
